@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\万天娇\.android\build-cache\be9912fb58c42f1cfadcc3958f74cc600b3d9ec9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="D:\Practice170916Frament_ViewPager_tablayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ab1af9128f40a173bc02e2a62614a9493afb83ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Practice170916Frament_ViewPager_tablayout\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="145a16dac046d90347e18dc4aab40b34e9374530">
+        <dex dex="D:\Practice170916Frament_ViewPager_tablayout\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_fb17f80329f661437a09d79e7d8e434ee31e82ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Practice170916Frament_ViewPager_tablayout\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\Practice170916Frament_ViewPager_tablayout\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_21f7af7a8250ea3f4f839e921a1b1ccc32619f1f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\万天娇\.android\build-cache\56845569d94e87ecf86c03bac27e174140a5d352\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="D:\Practice170916Frament_ViewPager_tablayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_558ced630b32124e4db295ab33b30abf4b26bfa8\classes.dex" />
+    </item>
+
+</items>
